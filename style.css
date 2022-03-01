@@ -1,0 +1,37 @@
+
+.heading_container{
+  text-align: center;
+  background-color:rgb(230, 41, 56);
+  color:rgb(240, 244, 245);
+  
+}
+.main-container{
+  display:flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  align-items:space-between;
+  justify-content:center;
+  margin:0 auto;
+  max-width: 1200px;
+  font-size: 13px;
+  font-family: sans-serif;
+  /* border:2px solid black; */
+
+}
+
+.pokemon{
+  background-color:yellow;
+  border-radius:20px;
+  padding:20px;
+  margin:20px;
+  text-align:left;
+  border:2px solid black;
+  
+}
+
+.img-container{
+  text-align:center;
+  width:100px;
+  height:300px;
+}
+
